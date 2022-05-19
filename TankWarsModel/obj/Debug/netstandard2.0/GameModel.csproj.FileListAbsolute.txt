@@ -1,0 +1,12 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\bin\Debug\netstandard2.0\GameModel.deps.json
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\bin\Debug\netstandard2.0\GameModel.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\bin\Debug\netstandard2.0\GameModel.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.AssemblyInfoInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.AssemblyInfo.cs
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.csproj.CoreCompileInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.csproj.CopyComplete
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsModel\obj\Debug\netstandard2.0\GameModel.pdb
