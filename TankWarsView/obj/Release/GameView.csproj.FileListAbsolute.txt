@@ -1,0 +1,5 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Release\GameView.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Release\GameView.Form1.resources
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Release\GameView.Properties.Resources.resources
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Release\GameView.csproj.GenerateResource.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Release\GameView.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\bin\Debug\TankWarsView.exe.config
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\bin\Debug\TankWarsView.exe
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\bin\Debug\TankWarsView.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.Form1.resources
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.Properties.Resources.resources
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.csproj.GenerateResource.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.csproj.CoreCompileInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.csproj.CopyComplete
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.exe
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsView\obj\Debug\TankWarsView.pdb
