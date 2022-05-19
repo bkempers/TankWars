@@ -1,0 +1,9 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\bin\Release\netstandard2.0\NetworkController.deps.json
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\bin\Release\netstandard2.0\NetworkController.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\bin\Release\netstandard2.0\NetworkController.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\obj\Release\netstandard2.0\NetworkController.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\obj\Release\netstandard2.0\NetworkController.AssemblyInfoInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\obj\Release\netstandard2.0\NetworkController.AssemblyInfo.cs
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\obj\Release\netstandard2.0\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\obj\Release\netstandard2.0\NetworkController.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\NetworkController\obj\Release\netstandard2.0\NetworkController.pdb

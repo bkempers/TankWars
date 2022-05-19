@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PjVn9Dx/Uuw03CA6riHDZsS4jaNwES0LKW9Ko6PKwYtGKOTrw0sY4g6YSJDR8Wzf2AtoZmdFrEv8xn+V905M2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bxnke\\source\\repos\\game-anishandben_game\\TankWars\\NetworkController\\NetworkController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bxnke\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bxnke\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bxnke\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\DrawingPanel\obj\Release\DrawingPanel.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\DrawingPanel\obj\Release\DrawingPanel.csproj.CoreCompileInputs.cache
