@@ -1,0 +1,16 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\ServerController.deps.json
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\ServerController.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\ServerController.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\GameModel.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\NetworkController.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\GameModel.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.AssemblyInfoInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.AssemblyInfo.cs
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.csproj.CoreCompileInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.csproj.CopyComplete
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.dll
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\ServerController\obj\Debug\netstandard2.0\ServerController.pdb

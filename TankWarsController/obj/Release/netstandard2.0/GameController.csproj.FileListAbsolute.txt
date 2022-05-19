@@ -1,0 +1,4 @@
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsController\obj\Release\netstandard2.0\GameController.csprojAssemblyReference.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsController\obj\Release\netstandard2.0\GameController.AssemblyInfoInputs.cache
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsController\obj\Release\netstandard2.0\GameController.AssemblyInfo.cs
+C:\Users\bxnke\source\repos\game-anishandben_game\TankWars\TankWarsController\obj\Release\netstandard2.0\GameController.csproj.CoreCompileInputs.cache
